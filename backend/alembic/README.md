@@ -1,0 +1,1 @@
+Run `alembic revision --autogenerate -m "initial"` and `alembic upgrade head` after configuring DATABASE_URL.
